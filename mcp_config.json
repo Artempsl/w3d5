@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:\\Users\\kupit\\week3\\w3d5"
+      ],
+      "description": "Filesystem MCP server for document access",
+      "allowedDirectories": [
+        "C:\\Users\\kupit\\week3\\w3d5"
+      ]
+    }
+  }
+}
